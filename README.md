@@ -24,6 +24,9 @@ Extention of your files in dirs should be `.fastq`, `.fq`, `.fastq.gz`, `.fz.gz`
 Red horizontal line indicate 10,000 reads. I think that samples less than this threshold are removed from MIG-seq analysis.
 
 ## Change Log
-|20200722 |Skip non-fastq/fasta files.|
-|20191017 |Don't count Undetermined and PhiX.|
-|20190410 |Created.|
+###20200722
+Skip non-fastq/fasta files.
+###20191017
+Don't count Undetermined and PhiX.
+###20190410
+Created.
